@@ -3,7 +3,7 @@
  ### [Video Demonstration](https://www.linkedin.com/posts/sadique-rahman-aa2951209_vr-csharp-gazeabrpointer-activity-7281673813191237633-U3RP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADT_3doBFsfXz5yrVPeGirVB95umWAn4Cr0)
 
 <h2>Description</h2>
-The Interactive VR Museum Tour app is an immersive Android application that leverages Unity and Vuforia SDK to provide users with an engaging virtual museum experience. It features a teleportation system allowing seamless navigation between designated exhibits, a Gaze Pointer for intuitive interactions with objects, and an integrated virtual video player for watching informative 360° videos related to each exhibit. The app employs efficient asset management and dynamic loading to ensure smooth performance on mobile devices, creating a captivating educational tool that enhances user engagement and learning in a virtual environment.
+The Interactive VR Museum Tour app is an immersive Android application that leverages Unity and Vuforia SDK to provide users with an engaging virtual museum experience. It features a Teleportation system allowing seamless navigation between designated exhibits, a Gaze Pointer for intuitive interactions with objects, and an integrated virtual video player for watching informative 360° videos related to each exhibit. The app employs efficient asset management and dynamic loading to ensure smooth performance on mobile devices, creating a captivating educational tool that enhances user engagement and learning in a virtual environment.
 <br />
 
 
