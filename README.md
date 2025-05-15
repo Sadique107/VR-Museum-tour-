@@ -11,7 +11,7 @@ The Interactive VR Museum Tour app is an immersive Android application that leve
 
 - <b>Unity :</b>  For 3D environment creation and interaction mechanics.
 - <b>C# :</b>  For scripting game logic and interactions. 
-- <b>DiskpartVuforia SDK :</b>  For augmented reality features and object recognition.
+- <b>Vuforia SDK :</b>  For augmented reality features and object recognition.
 
 <h2>Environments Used </h2>
 
