@@ -1,20 +1,22 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>VR Museum tour with integrated Virtual Video Player</h1>
 
  ### [Video Demonstration](https://www.linkedin.com/posts/sadique-rahman-aa2951209_vr-csharp-gazeabrpointer-activity-7281673813191237633-U3RP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADT_3doBFsfXz5yrVPeGirVB95umWAn4Cr0)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The Interactive VR Museum Tour app is an immersive Android application that leverages Unity and Vuforia SDK to provide users with an engaging virtual museum experience. It features a teleportation system allowing seamless navigation between designated exhibits, a Gaze Pointer for intuitive interactions with objects, and an integrated virtual video player for watching informative 360° videos related to each exhibit. The app employs efficient asset management and dynamic loading to ensure smooth performance on mobile devices, creating a captivating educational tool that enhances user engagement and learning in a virtual environment.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Technologies Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Unity :</b>  For 3D environment creation and interaction mechanics.
+- <b>C# :</b>  For scripting game logic and interactions. 
+- <b>DiskpartVuforia SDK :</b>  For augmented reality features and object recognition.
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Unity</b> (2021.3.31f1)
+- <b>VS Code</b> (C#)
 
 <h2>Program walk-through:</h2>
 
