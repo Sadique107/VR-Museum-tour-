@@ -1,4 +1,4 @@
-<h1>VR Museum tour with integrated Virtual Video Player</h1>
+<h1>VR Museum Tour with integrated Virtual Video Player</h1>
 
  ### [Video Demonstration](https://www.linkedin.com/posts/sadique-rahman-aa2951209_vr-csharp-gazeabrpointer-activity-7281673813191237633-U3RP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADT_3doBFsfXz5yrVPeGirVB95umWAn4Cr0)
 
